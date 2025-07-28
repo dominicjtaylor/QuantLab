@@ -19,3 +19,9 @@ pip install -r requirements.txt
 ```bash
 python backtest.py
 ```
+
+## Contributing
+
+Contributions are very welcome! Please submit any issues or pull requests.
+
+

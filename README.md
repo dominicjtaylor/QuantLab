@@ -12,4 +12,10 @@ This project implements a simple and flexible backtesting framework for trading 
 
 ```bash
 pip install -r requirements.txt
+```
 
+## Usage
+
+```bash
+python backtest.py
+```

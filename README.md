@@ -24,4 +24,6 @@ python backtest.py
 
 Contributions are very welcome! Please submit any issues or pull requests.
 
+## License
 
+MIT License
